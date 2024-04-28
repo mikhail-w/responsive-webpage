@@ -290,4 +290,8 @@ footer {
     flex-direction: column;
     gap: 20px;
   }
+
+  footer {
+    font-size: .85rem;
+  }
 }
